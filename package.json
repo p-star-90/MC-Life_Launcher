@@ -1,7 +1,7 @@
 {
     "name": "MC-Life_Launcher",
     "preductname": "MC-Life Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur MC-Life",
     "main": "src/app.js",
     "author": {

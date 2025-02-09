@@ -93,10 +93,10 @@ If you are downloading from Releases, select the installer for your system.
 
  Platforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
+| Windows x64 | `MC-Life_Launcher-win-x64.exe ` |
+| macOS x64 | `MC-Life_Launcher-mac-x64.dmg` |
+| macOS arm64 | `MC-Life_Launcher-mac-arm64.dmg` |
+| Linux x64 | `MC-Life_Launcher-linux-x86_64.AppImage` |
 
 ---
 
